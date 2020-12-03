@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+	div.transbox 
+	{
+  		margin: 30px;
+  		background-color: #fafacd;
+ 		border: 1px solid black;
+  		
+	}
+
+	div.transbox p 
+	{
+  		margin: 5%;
+  		font-weight: bold;
+ 		 color: #000000;
+	}
+</style>
+</head>
+
+<body>
+	
+  	<div class="transbox">
+     	<h2 style="text-align:center;"><u>Vegan Male</u></h2>
+	<p><b><u>Breakfast:</u></b><br>
+		<i>High Fiber Cereal- Weetabix/ Bran Flakes/ Shreddies/ Muesli/ Porridge + 200ml Almond Milk<br>
+		200ml Fruit Juice<br>
+		Mug Tea/ Coffee</i><br>
+        	<br>
+	<b><u>Morning Snack:</u></b><br>
+		<i>2 Digestive Biscuits<br>
+		1 Cup Fresh Fruit</i><br>
+       	<br>
+	<b><u>Lunch:</u></b><br>
+		<i>Sandwich: 2 Slices Whole-meal + Olive Oil-based Spread + Paneer or Mixed Beans<br>
+		or 2 Eggs (Poached / Scrambled / Boiled) + 2 Slices Whole-meal Toast<br>
+		Mixed Salad<br>
+		Low Fat / Low Sugar Yoghurt</i><br>
+        	<br>
+	<b><u>Mid-afternoon:</u></b><br>
+		<i>1 Cup Fresh Fruit</i><br>
+       	<br>
+	<b><u>Evening Snack:</u></b><br>
+		<i>1 Cup Cottage Cheese</i><br>
+	<br>
+	<b><u>Dinner:</u></b><br>
+		<i>Mixed Bean Sprouts or 200g Chickpeas or Vegetable Stew<br>
+		1 Medium Jacket Potato or 3-4 Small Boiled Potatoes / Mashed Potato and 1 Bowl of Salad<br>
+		Gravy – Optional<br>
+		Dry Fruits</i><br>
+	</p>
+	</div>
+	
+</body>
+</html>

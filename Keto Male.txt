@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	
+
+	div.transbox 
+	{
+  		margin: 30px;
+  		background-color: #ffe4e1;
+ 		border: 1px solid black;
+  		
+	}
+
+	div.transbox p 
+	{
+  		margin: 5%;
+  		font-weight: bold;
+ 		 color: #000000;
+	}
+</style>
+</head>
+
+<body>
+	
+  	<div class="transbox">
+     	<h2 style="text-align:center;"><u>Keto Male</u></h2>
+	<p><b><u>Breakfast:</u></b><br>
+		<i>High Fiber Cereal- Weetabix/ Shreddies/ Porridge – (avoid sugary cereals) + Skimmed Milk (preferably no additional sugar although a slight sprinkling would be acceptable)<br>
+		1-2 Slices Granary Bread (toasted) + Olive Oil Based Spread + Jam/ Peanut Butter<br>
+		200ml Fresh Fruit Juice</i><br>
+        	<br>
+	<b><u>Morning Snack:</u></b><br>
+		<i>1-2 Whole-wheat Biscuits (e.g. oatcakes, digestive)<br>
+		Item Fruit</i><br>
+       	<br>
+	<b><u>Lunch:</u></b><br>
+		<i>Sandwich: 2 Slices Wholemeal + Butter + Chicken/ Ham or Tuna with Low Fat Cheese<br>
+		Chopped Carrot / Cucumber / Celery in a bowl<br>
+		Yoghurt<br>
+		1 Square Home-made Easy Flapjack</i><br>
+        	<br>
+	<b><u>Evening Snack:</u></b><br>
+		<i>1 Cup Fresh Fruit + Skimmed Milk<br>
+		or 2 Slices Granary Bread (toasted) + Olive Oil based Spread</i><br>
+	<br>
+	<b><u>Dinner:</u></b><br>
+		<i>Typical Family Meal e.g.: 100-120g Chicken Breast / Lean Meat / White Fish<br>
+		3-4 tbsp Cooked Basmati Rice or 60g Cooked Pasta or Small Potato mashed/ boiled/ jacket<br>
+		Cooked Veggies</i><br>
+	</p>
+	</div>
+	
+</body>
+</html>
